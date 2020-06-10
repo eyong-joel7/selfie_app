@@ -1,0 +1,11 @@
+p {
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+  
+}
+img {
+    height: 320px;
+    width: 320px;
+    background: white;
+}
